@@ -1,0 +1,32 @@
+// MusicFileDoc.txt
+// 
+// ICS 21 / CSE 21 Summer 2009
+// Lab Assignment 4
+// 
+// Information about the public aspects of the MusicFile class.
+
+
+public class MusicFile
+{
+	// open() opens the music file for sequential reading (i.e., in the
+	// order that the items are written in the file), given the name of
+	// the file that is to be opened.  If the file is not found, an error
+	// message is printed and the program exits.
+	public void open(String musicFileName)
+
+
+	// hasMoreItems() returns true if there are more items in the file,
+	// false otherwise.
+	public boolean hasMoreItems()
+
+
+	// readItem() returns the next item from the music file.  The item is
+	// returned as an ArrayList, where the accession number is in cell 0,
+	// the title is in cell 1, and the media type is in cell 2.
+	public ArrayList<String> readItem()
+
+
+	// close() closes the music file.  It's important to do this when you're
+	// finished with it!
+	public void close()
+}

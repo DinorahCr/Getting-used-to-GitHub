@@ -1,0 +1,98 @@
+Jackson5; ABC 123; C
+Trad; The Wexford Carol; C
+CASHJ12; I Walk the Line; C
+CASHJ13; A Boy Named Sue; V
+SIMONGARF; The Sound of Silence; C
+ALICEDJ; Back in My Life; C
+PHANTOM; All I Ask of You; C
+BOSSTONES; The Impression that I Get; C
+CLAYDERMAN; Ballade Pour Adeline; C
+MG; Sweet Honesty; C
+BOCELLI; Con Te Partiro; C
+PACHELBEL; Canon in D Major; P
+FF6; Tina; P
+ALPHAVILLE; Forever Young; C
+66397; Clarinet concerto in A; C
+66398; Einie Kleine Nachtmusik; C
+66399; Piano concerto no 21 in C; C
+66400; Sinfonia concertante, E flat, violin viola orches.; C
+66401; Symphony no 28 in c; C
+66402; Violin concerto no 3 in G; C
+66403; Clarinet quintet in A; C
+66404; Horn concerto no 3 in E flat  romanze; C
+66405; Serenade no 10 in B flat; C
+66406; Symphony no 25 in G minor; C
+66407; Symphony no 29 in A; C
+66408; Arrivederci; C
+66409; Buonanotte Village; C
+66410; Ricordi; C
+66411; Almeno tu nell'Universo; C
+66412; Ti sento; C
+534252345; Let Me Entertain You; C
+7502347543; Let Love Be Your Energy; C
+4758709; Rock DJ; C
+7540275302; Old Before I Die; C
+754398207; Supreme; C
+1434134; Kids; C
+7520947534; Somethin' Stupid; C
+654656454; She's The One; C
+737439; Better Man; C
+8080809; Strong; C
+634192352l; Eternity; C
+74309473; Feel; C
+238208320; Millennium; C
+23443; No Regrets; C
+632564192; Angels; C
+745734; Singing For The Lonely; C
+7534875; It's Only Us; C
+75375902; Have You Met Miss Jones; C
+5455555555; She Will Be Loved; C
+7597459347; Mandy; C
+121323424; Harder To Breathe; C
+090897897; Yeah; C
+80890878; Here With Me; C
+6079709807; Vincent; C
+55455889; This Love; C
+7857484574; Thank You; C
+7943743; White Flag; C
+0001; Black 47 - Green Suede Shoes; C
+0002; Black 47 - New York Town; C
+0003; Flogging Molly - Drunken Lullabies; C
+0004; Flogging Molly - Within a Mile of Home; C
+0005; Dropkick Murphys - Blackout; C
+0006; Death Cab for Cutie - The Photo Album; C
+0007; Phantom Planet - Phantom Planet; C
+0008; Mary Chapin Carpenter - Party Doll; C
+0009; The Smiths - Singles; C
+0010; Madonna - Immaculate Collection; C
+0011; Nada Surf - Let Go; C
+0012; Gorillaz - Gorillaz; C
+0013; Old 97s - Satellite Rides; C
+0014; U2 - The Joshua Tree; C
+0015; Christina Aguilera - Stripped; C
+0016; Five for Fighting - The Battle for Everything; C
+0017; Metallica - Master of Puppets; C
+0018; Nirvana - Unplugged in New York; C
+0019; Enya - A day Without Rain; C
+0020; Allison Krauss - Now that I've Found You; C
+0021; Modest Mouse - News for People Who Love Bad News; C
+0022; Green Day - American Idiot; C
+0023; Weezer - Pinkerton; C
+0024; Cake - Fashion Nugget; C
+0025; The Strokes - Room on Fire; C
+TradIrish1; The Rights of Man; W
+TradIrish2; Congress Reel; V
+OCarolan1; Ramble to Cashel; P
+OCarloan2; Fanny Powers; P
+OCarolan3; Si Beag, Si Mohr; W
+OCarolan4; No. 174; V
+OCarolan5; Sir Festus Burke; W
+OCarolan6; Planxty Sir Colonel John Irwin; V
+ModestMouse1; Modest Mouse - Dramamine; C
+ModestMouse2; Modest Mouse - Here it Comes; C
+SP; Silversun Pickups - The Royal We; C
+Tool001; Tool - Forty Six & 2; C
+Dylan001; Bob Dylan - Hurricane; C
+Dylan002; Bob Dylan - Tangled Up in Blue; C
+EJ; Eric Johnson - Cliffs of Dover; C
+Muse; Butterflies & Hurricanes; C

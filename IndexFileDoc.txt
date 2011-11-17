@@ -1,0 +1,28 @@
+// IndexFileDoc.txt
+// 
+// Lab Assignment 4 - Completed
+// 
+// Information about the public aspects of the IndexFile class.
+// Minor updates for ICS 21 Fall 2009 by Norman Jacobson, September 2009
+
+
+public class IndexFile
+{
+	// open() opens the index file for sequential writing (i.e., each line
+	// is written right after the previous one), given the name of the 
+	// file into which you want the index to be written. 
+	// If the file cannot be opened, an error message is printed and the 
+	// program exits.
+	public void open(String indexFileName)
+	
+	
+	// writeItem() writes an item into the index file, formatted so that
+	// the title appears first, the accession number next, and the media
+	// type last.
+	public void writeItem(MusicItem itemToWrite)
+	
+	
+	// close() closes the index file.  It's important to close the file
+	// when you're done with it!
+	public void close()
+}
